@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: sideWall
+    uniqueID: 2153956759
+    locked: 0
+  - name: backWall
+    uniqueID: 1465069425
+    locked: 0
+  - name: rayDetector
+    uniqueID: 3816767521
+    locked: 0
