@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/pong/scene.unity
-  isLoaded: 1
-  isActive: 1
+- path: Assets/Tanks/scene.unity
+  isLoaded: 0
+  isActive: 0
